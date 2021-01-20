@@ -82,7 +82,7 @@
                             <div class="container">
                        
                                 <!-- Trigger the modal with a button -->
-                                <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open Video</button>
+                                <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Pre-widding shoot</button>
             
                                  <!-- Modal -->
                                  <div class="modal fade" id="myModal" role="dialog">
@@ -120,7 +120,7 @@
         <!-- Slider Area Start-->
         <div class="slider-area ">
             <div class="slider-active">
-                <div class="single-slider slider-height hero-overly d-flex align-items-center" data-background="assets/img/hero/dileepan3.JPG">                    
+                <div class="single-slider slider-height hero-overly d-flex align-items-center" data-background="assets/img/hero/prasanth2.JPG">                    
                     <div class="container">
                         <div class="row d-flex align-items-center">
                             <div class="col-lg-7 col-md-9 ">
@@ -159,7 +159,7 @@
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="story-img mb-100">
-                             <img src="assets/img/our_story/dileepan6.JPG" class="story-imges" alt="">
+                             <img src="assets/img/our_story/OurStories.jpg" class="story-imges" alt="">
                              <!-- shape flower -->
                              <div class="shape-flower-img">
                                 <img src="assets/img/our_story/flower_top.png" class="flower-top" alt="">
@@ -170,8 +170,8 @@
                         <div class="story-caption">
                             <img src="assets/img/our_story/flower_right.png" alt="">
                             <h3>Our Story</h3>
-                            <p class="story1">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                            <p class="story2">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudan.</p>
+                            <p class="story1">We were just thinking of the picture which was captured some 20 plus years ago in our cousin sister's wedding ceremony where a little girl and boy sitting next to bride and groom.We are surprised and feeling excited to realize that things happened in a beautiful way as these little girl and boy now is going to be couples gettting ready to jump into their wedding as it is their parent's desire</p>
+                            <p class="story2">As a great sign of hope to start their life journey,we believe that your presence will be there to bless these couple whole heartedly with love!!!!</p>
                         </div>
                     </div>
                 </div>
@@ -228,7 +228,7 @@
                                 <p>Feb 01, 2021</p>
                             </div>
                             <div class="services-img">
-                                <img src="assets/img/service/service3.png" alt="">
+                                <img src="assets/img/service/prasanth2.png" alt="">
                                 <div class="back-flower">
                                     <img src="assets/img/service/services_flower1.png" alt="">
                                 </div>
@@ -259,7 +259,7 @@
                     <div class="col-lg-4 col-md-4">
                         <div class="memory">
                             <div class="memories-img">
-                                <img src="assets/img/memories/dileepan8.jpeg" alt="">
+                                <img src="assets/img/memories/memories2.jpg" alt="">
                                 <div class="menorie-icon" href="assets/img/memories/memories1.jpg">
                                     <i class="ti-plus"></i>
                                 </div>
@@ -269,7 +269,7 @@
                     <div class="col-lg-4 col-md-4">
                         <div class="memory">
                             <div class="memories-img">
-                                <img src="assets/img/memories/dileepan10.jpeg" alt="">
+                                <img src="assets/img/memories/memories2.jpg" alt="">
                                 <div class="menorie-icon" href="assets/img/memories/memories2.jpg">
                                     <i class="ti-plus"></i>
                                 </div>
@@ -279,8 +279,8 @@
                     <div class="col-lg-4 col-md-4">
                         <div class="memory">
                             <div class="memories-img">
-                                <img src="assets/img/memories/dileepan8.jpeg" alt="">
-                                <div class="menorie-icon" href="assets/img/memories/memories3.jpg">
+                                <img src="assets/img/memories/Memories_3.jpg" alt="">
+                                <div class="menorie-icon" href="assets/img/memories/Memories_3.jpg">
                                     <i class="ti-plus"></i>
                                 </div>
                             </div>
@@ -289,8 +289,8 @@
                     <div class="col-lg-4 col-md-4">
                         <div class="memory">
                             <div class="memories-img">
-                                <img src="assets/img/memories/memories4.jpg" alt="">
-                                <div class="menorie-icon" href="assets/img/memories/memories4.jpg">
+                                <img src="assets/img/memories/memories_4.jpg" alt="">
+                                <div class="menorie-icon" href="assets/img/memories/memories_4.jpg">
                                     <i class="ti-plus"></i>
                                 </div>
                             </div>
@@ -299,8 +299,8 @@
                     <div class="col-lg-4 col-md-4">
                         <div class="memory">
                             <div class="memories-img">
-                                <img src="assets/img/memories/memories5.jpg" alt="">
-                                <div class="menorie-icon" href="assets/img/memories/memories5.jpg">
+                                <img src="assets/img/memories/memories2.jpg" alt="">
+                                <div class="menorie-icon" href="assets/img/memories/memories2.jpg">
                                     <i class="ti-plus"></i>
                                 </div>
                             </div>
@@ -327,7 +327,7 @@
         </div>
         <!-- our Memories End-->
         <!-- Gift Start -->
-        <div class="gift-area gift-padding gift-overly" data-background="assets/img/memories/gft.jpg">
+        <div class="gift-area gift-padding gift-overly" data-background="assets/img/memories/gift1.jpg">
             <div class="container">
                 <div class="row">
                     <div class=" offset-lg-1 col-12">
