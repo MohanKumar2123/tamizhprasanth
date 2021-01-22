@@ -38,7 +38,7 @@
             <div class="preloader-inner position-relative">
                 <div class="preloader-circle"></div>
                 <div class="preloader-img pere-text">
-                    <img src="assets/img/logo/logo.png" alt="">
+                    <img src="assets/img/logo/prasanth2.png" alt="">
                 </div>
             </div>
         </div>
@@ -110,7 +110,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="single-slider slider-height hero-overly d-flex align-items-center" data-background="assets/img/hero/homeHero_2.jpg">
+                <div class="single-slider slider-height hero-overly d-flex align-items-center" data-background="assets/img/hero/prasanth2.JPG">
                     <div class="container">
                         <div class="row d-flex align-items-center">
                             <div class="col-lg-9 col-md-9 ">
