@@ -3,12 +3,16 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Wedding HTML-5 Template </title>
+        <title>Wedding Invitation</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <link rel="manifest" href="site.webmanifest">
-		<link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
+        <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
 		<!-- CSS here -->
             <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -22,13 +26,11 @@
             <link rel="stylesheet" href="assets/css/slick.css">
             <link rel="stylesheet" href="assets/css/nice-select.css">
             <link rel="stylesheet" href="assets/css/style.css">
-            <meta name="viewport" content="width=device-width, initial-scale=1">
-            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+            
    </head>
 
    <body>
+   
        
     <!-- Preloader Start -->
     <div id="preloader-active">
@@ -46,89 +48,62 @@
     <header>
         <!-- Header Start -->
        <div class="header-area">
-            <div class="main-header header-sticky">
+            <!-- <div class="main-header header-sticky"> -->
                
-                <div class="container">
+                <!-- <div class="container">
                     <div class="row align-items-center">
-                        <!-- Logo -->
-                        <!-- <div class="col-xl-2 col-lg-2 col-md-2">
-                            <div class="logo">
-                                <a href="index.html"><img src="assets/img/logo/logo.png" alt=""></a>
-                            </div>
-                        </div> -->
-                        <div class="col-xl-10 col-lg-10 col-md-10">
-                            <!-- Main-menu -->
-                            <!-- <div class="main-menu f-right d-none d-lg-block">
-                                <nav>                              
-                                    <ul id="navigation">    
-                                        <li><a href="our_story.html"> Our Story</a></li>
-                                        <li><a href="location.html">Location</a></li>
-                                        <li><a href="gallery.html">Gallery</a></li>
-                                        <li><a href="booking.html">Guest Book</a></li>
-                                        <li><a href="#">Pages</a>
-                                            <ul class="submenu">
-                                                <li><a href="blog.html">Blog</a></li>
-                                                <li><a href="single-blog.html">Blog Details</a></li>
-                                                <li><a href="elements.html">Element</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="contact.html">contact</a></li>
-                                    </ul>
-                                </nav>
-                            </div> -->
-                        </div> 
-                        <!-- Mobile Menu -->
+                         
+                      
                         <div class="col-12">
-                            <div class="container">
-                       
-                                <!-- Trigger the modal with a button -->
-                                <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Pre-widding shoot</button>
-            
-                                 <!-- Modal -->
-                                 <div class="modal fade" id="myModal" role="dialog">
-                                    <div class="modal-dialog">
-                                    
-                                    <!-- Modal content-->
-                                    <div class="modal-content">
-                                        <div class="modal-header">
-                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
-                                        <h4 class="modal-title">Thamizh & Prasanth</h4>
-                                        </div>
-                                        <div class="modal-body">
-                                <video width="100%" height="100%" src="dileepan.mp4" autoplay controls>
-                                
-                                Your browser does not support the video tag.
-                                </video>
-                                        </div>
-                                    
-                                    </div>
-                                    
-                                    </div>
-                                </div>
-            
-                            </div>
-                            <div class="mobile_menu d-block d-lg-none"></div>
+                            
+                            
+                           
                         </div>
                     </div>
-                </div>
-            </div>
+                </div> -->
+                
+            <!-- </div> -->
        </div>
+       <!-- <div class="container">
+      
+        <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Pre-wedding shoot</button>
+      
+        <div class="modal fade" id="myModal" role="dialog">
+          <div class="modal-dialog">
+          
+            <div class="modal-content">
+              <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Thamizh weds Prasanth</h4>
+              </div>
+              <div class="modal-body">
+      <video width="100%" height="100%" src="dileepan.mp4" autoplay controls>
+       
+        Your browser does not support the video tag.
+      </video>
+              </div>
+            
+            </div>
+            
+          </div>
+        </div>
+        
+      </div> -->
         <!-- Header End -->
     </header>
 
     <main>
-        <!-- Slider Area Start-->
         <div class="slider-area ">
             <div class="slider-active">
                 <div class="single-slider slider-height hero-overly d-flex align-items-center" data-background="assets/img/hero/prasanth2.JPG">                    
                     <div class="container">
                         <div class="row d-flex align-items-center">
-                            <div class="col-lg-7 col-md-9 ">
+                            <div class="col-lg-9 col-md-9 ">
                                 <div class="hero__caption text-center d-flex align-items-center caption-bg">
                                    <div class="circle-caption">
                                         <span  data-animation="fadeInUp" data-delay=".3s">Feb 01 - 2021</span>
-                                        <h1  data-animation="fadeInUp" data-delay=".5s">Thamizh & Prasanth</h1>
-                                        <p  data-animation="fadeInUp" data-delay=".9s">We are getting married</p>
+                                        <h2 style="color:white; margin-left: -5px;"  data-animation="fadeInUp" data-delay=".5s">Thamizh & Prasanth </h2>
+                                        <p  data-animation="fadeInUp" data-delay=".9s">are getting married</p>
                                    </div>
                                 </div>
                             </div>
@@ -138,12 +113,12 @@
                 <div class="single-slider slider-height hero-overly d-flex align-items-center" data-background="assets/img/hero/homeHero_2.jpg">
                     <div class="container">
                         <div class="row d-flex align-items-center">
-                            <div class="col-lg-7 col-md-9 ">
+                            <div class="col-lg-9 col-md-9 ">
                                 <div class="hero__caption text-center d-flex align-items-center caption-bg">
                                    <div class="circle-caption">
-                                        <span  data-animation="fadeInUp" data-delay=".3s">Feb 14 2020</span>
-                                        <h1  data-animation="fadeInUp" data-delay=".5s">Julia & Jakson</h1>
-                                        <p  data-animation="fadeInUp" data-delay=".9s">We are getting married</p>
+                                        <span  data-animation="fadeInUp" data-delay=".3s">Feb 1 2021</span>
+                                        <h2 style="color:yellowgreen;"  data-animation="fadeInUp" data-delay=".5s">Thamizh & Prasanth </h2>
+                                        <p  data-animation="fadeInUp" data-delay=".9s">are getting married</p>
                                    </div>
                                 </div>
                             </div>
@@ -152,15 +127,14 @@
                 </div>
             </div>
         </div>
-        <!-- Slider Area End-->
-        <!-- Our Story Start -->
+      
         <div class="Our-story-area story-padding">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6">
                         <div class="story-img mb-100">
                              <img src="assets/img/our_story/OurStories.jpg" class="story-imges" alt="">
-                             <!-- shape flower -->
+                            
                              <div class="shape-flower-img">
                                 <img src="assets/img/our_story/flower_top.png" class="flower-top" alt="">
                             </div>
@@ -170,20 +144,17 @@
                         <div class="story-caption">
                             <img src="assets/img/our_story/flower_right.png" alt="">
                             <h3>Our Story</h3>
-                            <p class="story1">We were just thinking of the picture which was captured some 20 plus years ago in our cousin sister's wedding ceremony where a little girl and boy sitting next to bride and groom.We are surprised and feeling excited to realize that things happened in a beautiful way as these little girl and boy now is going to be couples gettting ready to jump into their wedding as it is their parent's desire</p>
-                            <p class="story2">As a great sign of hope to start their life journey,we believe that your presence will be there to bless these couple whole heartedly with love!!!!</p>
+                            <p class="story1">The wedding pic of my cousin, which is 20 years old had us hooked to the thought of those 2 lovely kids, who sat next to the bride and groom. It's too amazing to be true that those little kids will now be occupying the seats of bride and groom, as wished by their parents.</p>
+                            <p class="story2">With a great hope to eventuate their dream come true journey, we solicit your gracious presence and heartfelt blessings with love.</p>
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- shape -->
             <div class="shape-flower d-none d-xl-block">
                 <img src="assets/img/our_story/shape_left.png" class="flower1" alt="">
                 <img src="assets/img/our_story/shape_right.png" class="flower2 " alt="">
             </div>
         </div>
-        <!-- Our Story Ende -->
-        <!-- Services Area Start-->
         <div class="service-area ">
             <div class="container">
                 <div class="row">
@@ -200,27 +171,11 @@
                                 </div>
                             </div>
                             <div class="bottom-caption">
-                                <span>06:30PM-10:00PM</span>
-                                <p>The Sierra Resort 14<br> Pacific Grove Monterey, CA</p>
+                                <span>06:30PM Onwards</span>
+                                <p>Rajaveni Kalyana Mandapam<br> Jyothi Nagar, Near Annanur Railway St,<br> Annanur, Chennai - 600109</p>
                             </div>
                         </div> 
-                    <!-- </div><div class="col-lg-4">
-                        <div class="singl-services text-center mb-60">
-                            <div class="top-caption">
-                                <h4>The Ceremony</h4>
-                                <p>July 20, 2020</p>
-                            </div>
-                            <div class="services-img">
-                                <img src="assets/img/service/service2.png" alt="">
-                                <div class="back-flower">
-                                    <img src="assets/img/service/services_flower1.png" alt="">
-                                </div>
-                            </div>
-                            <div class="bottom-caption">
-                                <span>12:00PM-2:00PM</span>
-                                <p>The Sierra Resort 14<br> Pacific Grove Monterey, CA</p>
-                            </div>
-                        </div>  -->
+                   
                     </div><div class="col-lg-6">
                         <div class="singl-services text-center mb-60">
                             <div class="top-caption">
@@ -234,19 +189,18 @@
                                 </div>
                             </div>
                             <div class="bottom-caption">
-                                <span>04:00AM-7:00AM</span>
-                                <p>The Sierra Resort 14<br> Pacific Grove Monterey, CA</p>
+                                <span>09:00AM-10:30AM</span>
+                                <p>Rajaveni Kalyana Mandapam<br> Jyothi Nagar, Near Annanur Railway St,<br> Annanur, Chennai - 600109</p>
                             </div>
                         </div> 
                     </div>
                 </div>
              </div>
         </div>
-        <!-- Services Area End-->
-        <!-- our Memories start -->
+       
         <div class="our-memories-area section-padding2">
             <div class="container">
-                <!-- section tittle -->
+               
                 <div class="row ">
                     <div class="col-lg-12">
                         <div class="section-tittle text-center">
@@ -259,8 +213,8 @@
                     <div class="col-lg-4 col-md-4">
                         <div class="memory">
                             <div class="memories-img">
-                                <img src="assets/img/memories/memories2.jpg" alt="">
-                                <div class="menorie-icon" href="assets/img/memories/memories1.jpg">
+                                <img src="assets/img/memories/memories7.jpg" alt="">
+                                <div class="menorie-icon" href="assets/img/memories/memories7.jpg">
                                     <i class="ti-plus"></i>
                                 </div>
                             </div>
@@ -279,8 +233,8 @@
                     <div class="col-lg-4 col-md-4">
                         <div class="memory">
                             <div class="memories-img">
-                                <img src="assets/img/memories/Memories_3.jpg" alt="">
-                                <div class="menorie-icon" href="assets/img/memories/Memories_3.jpg">
+                                <img src="assets/img/memories/memories3.jpg" alt="">
+                                <div class="menorie-icon" href="assets/img/memories/memories3.jpg">
                                     <i class="ti-plus"></i>
                                 </div>
                             </div>
@@ -289,8 +243,8 @@
                     <div class="col-lg-4 col-md-4">
                         <div class="memory">
                             <div class="memories-img">
-                                <img src="assets/img/memories/memories_4.jpg" alt="">
-                                <div class="menorie-icon" href="assets/img/memories/memories_4.jpg">
+                                <img src="assets/img/memories/memories4.jpg" alt="">
+                                <div class="menorie-icon" href="assets/img/memories/memories4.jpg">
                                     <i class="ti-plus"></i>
                                 </div>
                             </div>
@@ -299,8 +253,8 @@
                     <div class="col-lg-4 col-md-4">
                         <div class="memory">
                             <div class="memories-img">
-                                <img src="assets/img/memories/memories2.jpg" alt="">
-                                <div class="menorie-icon" href="assets/img/memories/memories2.jpg">
+                                <img src="assets/img/memories/memories5.jpg" alt="">
+                                <div class="menorie-icon" href="assets/img/memories/memories5.jpg">
                                     <i class="ti-plus"></i>
                                 </div>
                             </div>
@@ -309,8 +263,8 @@
                     <div class="col-lg-4 col-md-4">
                         <div class="memory">
                             <div class="memories-img">
-                                <img src="assets/img/memories/memories2.jpg" alt="">
-                                <div class="menorie-icon" href="assets/img/memories/memories2.jpg">
+                                <img src="assets/img/memories/memories6.jpg" alt="">
+                                <div class="menorie-icon" href="assets/img/memories/memories6.jpg">
                                     <i class="ti-plus"></i>
                                 </div>
                             </div>
@@ -319,106 +273,39 @@
                     
                 </div>
             </div>
-            <!-- Shape Img -->
+      
             <div class="memories-shape d-none d-xl-block">
                 <img src="assets/img/memories/left-img.png" class="memories-shape1" alt="">
                 <img src="assets/img/memories/right-img.png" class="memories-shape2" alt="">
             </div>
         </div>
-        <!-- our Memories End-->
-        <!-- Gift Start -->
-        <div class="gift-area gift-padding gift-overly" data-background="assets/img/memories/gift1.jpg">
+        
+        <div class="gift-area gift-padding gift-overly" data-background="assets/img/memories/gift3.jpg">
             <div class="container">
                 <div class="row">
                     <div class=" offset-lg-1 col-12">
                         <div class="gift-caption">
+                            <p></p>
+                            <br/><br/><br/><br/>
                             <h2>The Best Gift</h2>
-                            <p>Will be your bresentation</p>
-                            <!-- <a href="#" class="btn">R.S.V.P</a> -->
+                            <p><b>Will be your presence</b></p>
+                           
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- Gift End -->
-
-    
-        <!-- Contact form Start -->
-        <!-- <div class="contact-form section-padding2 fix">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-6 col-lg-6 offset-lg-3 offset-xl-3">
-                        <div class="form-wrapper">
-                            
-                            <div class="row ">
-                                <div class="col-lg-12">
-                                    <div class="section-tittle tittle-form text-center">
-                                        <img src="assets/img/memories/section_tittle_flowre.png" alt="">
-                                        <h2>Are you attending?</h2>
-                                    </div>
-                                </div>
-                            </div>
-                            <form id="contact-form" action="#" method="POST">
-                                <div class="row">
-                                    <div class="col-lg-12">
-                                        <div class="form-box mb-30">
-                                            <input type="text" name="name" placeholder="Name">
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-12">
-                                        <div class="form-box subject-icon mb-30">
-                                            <input type="Email" name="subject" placeholder="Email">
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-12 mb-30">
-                                        <div class="select-itms">
-                                            <select name="select" id="select2">
-                                                <option value="">1 Guest</option>
-                                                <option value="">2 Guest</option>
-                                                <option value="">3 Guest</option>
-                                                <option value="">4 Guest</option>
-                                            </select>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-12">
-                                        <div class="form-box message-icon mb-30">
-                                            <textarea name="message" id="message" placeholder="Your Message"></textarea>
-                                        </div>
-                                    <div class="submit-info">
-                                            <button class="btn2" type="submit">R.S.V.P</button>
-                                    </div>
-                                    </div>
-                                </div>
-                            </form>
-                          
-                            <div class="shape-inner-flower">
-                                <img src="assets/img/flower/form-smoll-left.png" class="top1" alt="">
-                                <img src="assets/img/flower/form-smoll-right.png" class="top2" alt="">
-                                <img src="assets/img/flower/form-smoll-b-left.png"class="top3"  alt="">
-                                <img src="assets/img/flower/form-smoll-b-right.png"class="top4"  alt="">
-                            </div>
-                           
-                            <div class="shape-outer-flower">
-                                <img src="assets/img/flower/from-top.png" class="outer-top" alt="">
-                                <img src="assets/img/flower/from-bottom.png" class="outer-bottom" alt="">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> -->
-        <!-- Contact form End -->
 
         <!-- ================ Map ================= -->
         <section class="contact-sections">
             <div class="d-area">
-                <div id="map" style="height: 500px; position: relative; overflow: hidden;"></div>
-                <script type="text/javascript">
-                    $(window).on('load', function() {
-                        $('#myModal').modal('show');
-                    });
-                </script>
-                <script>
+                <a href="https://goo.gl/maps/nKUXT6E2FvqhN1RL8" target="_blank"> 
+                    <img src="assets/img/memories/Map.JPG" width=100% height=100% alt="logo" /> 
+                    </a> 
+                <!-- <div  style="height: 500px; position: relative; overflow: hidden;"></div> -->
+               
+               
+                <!-- <script>
                     function initMap() {
                         var uluru = {
                             lat: -25.363,
@@ -450,11 +337,11 @@
                             styles: grayStyles,
                             scrollwheel: false
                         });
-                    }
-                </script>
-                <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDpfS1oRGreGSBU5HHjMmQ3o5NLw7VdJ6I&amp;callback=initMap">
-                </script>
-            </div>
+                    } 
+                 </script> -->
+                <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDpfS1oRGreGSBU5HHjMmQ3o5NLw7VdJ6I&amp;callback=initMap"> 
+                </script> -->
+            <!-- </div> -->
         </section>
          <!-- ================ Map ================= -->
 
@@ -495,78 +382,7 @@
    <footer>
     <!-- Footer Start-->
       <div class="footer-main footer-bg">
-        <!-- <div class="footer-area footer-padding">
-            <div class="container">
-                <div class="row d-flex justify-content-between">
-                    <div class="col-xl-4 col-lg-4 col-md-5 col-sm-8">
-                       <div class="single-footer-caption mb-50">
-                         <div class="single-footer-caption mb-30">
-                              
-                             <div class="footer-logo">
-                                 <a href="index.html"><img src="assets/img/logo/logo2_footer.png" alt=""></a>
-                             </div>
-                             <div class="footer-tittle">
-                                 <div class="footer-pera">
-                                     <p class="info1">Seddo eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-                                     <p class="info2">theaisle@elated-themes.com</p>
-                                     <p class="info2">+(123) 456 - 7890 - 456 - 7890</p>
-                                     <p class="info2"> 35 W 46nd Street New York</p>
-                                </div>
-                             </div>
-                         </div>
-                       </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-4 col-md-5 col-sm-7">
-                        <div class="single-footer-caption mb-50">
-                            <div class="footer-tittle">
-                                <h4>WEDDING PLANNER FAQS</h4>
-                                <ul>
-                                    <li><a href="#">Why Hire a Planner?</a></li>
-                                    <li><a href="#">How Can I Make An</a></li>
-                                    <li><a href="#">Appointment?</a></li>
-                                    <li><a href="#">How to Choose a Venue</a></li>
-                                    <li><a href="#">Event Catalogue</a></li>
-                                    <li><a href="#"> Accept</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-2 col-lg-3 col-md-5 col-sm-7">
-                        <div class="single-footer-caption mb-50">
-                            <div class="footer-tittle">
-                                <h4>ABOUT US</h4>
-                                <ul>
-                                    <li><a href="#">Bridesmaids</a></li>
-                                    <li><a href="#">November 22, 2020</a></li>
-                                    <li><a href="#">Groomsmen</a></li>
-                                    <li><a href="#">November 22, 2020</a></li>
-                                    <li><a href="#">JEWELRY</a></li>
-                                    <li><a href="#">November 22, 2020</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-lg-3 col-md-5 col-sm-7">
-                        <div class="single-footer-caption mb-50">
-                            <div class="footer-tittle">
-                                <h4>Instagram</h4>
-                            </div>
-                            <div class="instagram-gellay">
-                                <ul class="insta-feed">
-                                    <li><a href="#"><img src="assets/img/post/instra1.jpg" alt=""></a></li>
-                                    <li><a href="#"><img src="assets/img/post/instra2.jpg" alt=""></a></li>
-                                    <li><a href="#"><img src="assets/img/post/instra3.jpg" alt=""></a></li>
-                                    <li><a href="#"><img src="assets/img/post/instra4.jpg" alt=""></a></li>
-                                    <li><a href="#"><img src="assets/img/post/instra5.jpg" alt=""></a></li>
-                                    <li><a href="#"><img src="assets/img/post/instra6.jpg" alt=""></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> -->
+      
         <!-- footer-bottom aera -->
         <div class="footer-bottom-area footer-bg">
             <div class="container">
@@ -574,9 +390,13 @@
                      <div class="row d-flex align-items-center">
                          <div class="col-xl-12 ">
                              <div class="footer-copy-right text-center">
-                                 <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-   Thamizh <i class="ti-heart" aria-hidden="true"></i> Prasanth
-  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+                                 <p style="font-size: 10px;"><b>For Contact :</b><br>Dinesh-9176751440 | Janaki- 8807136369 | Iliyas- 7092145037 | Sarath- 8056093370 | Dileep- 8939222420 | Kumar- 8939637969</p>
+                                <br/> <br/>
+                                <br/>
+                                 <p>
+   Thamizh <i class="ti-heart" style="color: red;" aria-hidden="true"></i> Prasanth
+
+ 
                              </div>
                          </div>
                      </div>
@@ -587,7 +407,13 @@
      <!-- Footer End-->
    </footer>
    
-	<!-- JS here -->
+    <!-- JS here -->
+    
+        <!-- <script type="text/javascript">
+            $(window).on('load', function() {
+                $('#myModal').modal('show');
+            });
+        </script> -->
 	
 		<!-- All JS Custom Plugins Link Here here -->
         <script src="./assets/js/vendor/modernizr-3.5.0.min.js"></script>
@@ -626,3 +452,6 @@
         
     </body>
 </html>
+
+
+
