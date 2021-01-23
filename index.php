@@ -95,7 +95,7 @@
     <main>
         <div class="slider-area ">
             <div class="slider-active">
-                <div class="single-slider slider-height hero-overly d-flex align-items-center" data-background="assets/img/hero/prasanth2.JPG">                    
+                <div class="single-slider slider-height hero-overly d-flex align-items-center" data-background="assets/img/our_story/prasath.jpg">                    
                     <div class="container">
                         <div class="row d-flex align-items-center">
                             <div class="col-lg-9 col-md-9 ">
@@ -110,7 +110,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="single-slider slider-height hero-overly d-flex align-items-center" data-background="assets/img/hero/prasanth2.JPG">
+                <div class="single-slider slider-height hero-overly d-flex align-items-center" data-background="assets/img/our_story/prasath.jpg">
                     <div class="container">
                         <div class="row d-flex align-items-center">
                             <div class="col-lg-9 col-md-9 ">
