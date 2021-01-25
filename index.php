@@ -123,7 +123,7 @@
                             <p class="story1">The wedding pic of my cousin, which is 20 years old had us hooked to the thought of those 2 lovely kids, who sat next to the bride and groom. It's too amazing to be true that those little kids will now be occupying the seats of bride and groom, as wished by their parents.</p>
                             <p class="story2">With a great hope to eventuate their dream come true journey, we solicit your gracious presence and heartfelt blessings with love.</p>
                               <div class="container">
-                                <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Pre-wedding shoot</button>
+                                <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Save the date</button>
                                 <div class="modal fade" id="myModal" role="dialog">
                                 <div class="modal-dialog">                                
                                     <div class="modal-content">
