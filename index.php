@@ -162,7 +162,7 @@
                         <div class="singl-services text-center mb-60">
                             <div class="top-caption">
                                 <h4>Reception</h4>
-                                <p>Jan 31, 2021</p>
+                                <p>Jan 31, 2021 Sunday</p>
                             </div>
                             <div class="services-img">
                                 <img src="assets/img/service/service1.png" alt="">
@@ -172,7 +172,7 @@
                             </div>
                             <div class="bottom-caption">
                                 <span>06:30PM Onwards</span>
-                                <p>Rajaveni Kalyana Mandapam<br> Jyothi Nagar, Near Annanur Railway St,<br> Annanur, Chennai - 600109</p>
+                                <p>Rajaveni Kalyana Mandapam<br> Jyothi Nagar, Near Annanur Railway Station,<br> Annanur, Chennai - 600062</p>
                             </div>
                         </div> 
                    
@@ -180,7 +180,7 @@
                         <div class="singl-services text-center mb-60">
                             <div class="top-caption">
                                 <h4>Marriage</h4>
-                                <p>Feb 01, 2021</p>
+                                <p>Feb 01, 2021 Monday</p>
                             </div>
                             <div class="services-img">
                                 <img src="assets/img/service/prasanth2.png" alt="">
@@ -190,7 +190,7 @@
                             </div>
                             <div class="bottom-caption">
                                 <span>09:00AM-10:30AM</span>
-                                <p>Rajaveni Kalyana Mandapam<br> Jyothi Nagar, Near Annanur Railway St,<br> Annanur, Chennai - 600109</p>
+                                <p>Rajaveni Kalyana Mandapam<br> Jyothi Nagar, Near Annanur Railway Station,<br> Annanur, Chennai - 600062</p>
                             </div>
                         </div> 
                     </div>
